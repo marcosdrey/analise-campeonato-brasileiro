@@ -1,0 +1,89 @@
+Pra cada atividade, plotar um gráfico caso seja conveniente.
+
+Pré-Analise - Normalizar dados
+
+1 - Fazer uma tabela mostrando A SOMA de cada coluna de TODOS OS TIMES.
+
+2 - Fazer uma tabela mostrando A MÉDIA de cada coluna de TODOS OS TIMES.
+
+3 - Analisar A MÉDIA das informações DE CADA ANO.
+
+4 - Analisar A SOMA das informações DE CADA ANO.
+
+5 - Identificar A MENOR e A MAIOR pontuação do 17 colocado no Brasileirão (Colocação: 17)
+
+5.1 - Média de pontuação do 17 colocado.
+
+6 - Identificar A MAIOR e A MENOR pontuação do lanterna do Brasileirão (Colocação: 20)
+
+6.1 - Média de pontuação do lanterna.
+
+7 - Identificar A MAIOR e A MENOR pontuação do campeão do Brasileirão (Colocação: 1)
+
+7.1 - Média de pontuação do 20 colocado.
+
+8 - Identificar o time que MAIS TOMOU CARTÃO AMARELO e o que MAIS TOMOU CARTÃO VERMELHO em UM ANO, e vice-versa.
+
+8.1 - O time que mais tomou cartões amarelos e o que mais tomou vermelhos em todo o registro.
+
+9 - Identificar os times com as maiores e menores médias de cartões amarelos e cartões vermelhos por campeonato.
+
+10 - Identificar o time com MAIS GOLS FEITOS em uma edição;
+
+10.1 - Identificar o time com MENOS GOLS FEITOS em uma edição;
+
+11 - Identificar o time com MAIS GOLS SOFRIDOS em uma edição;
+
+11.1 - Identificar o time com MENOS GOLS SOFRIDOS em uma edição;
+
+12 - Identificar o time com o MAIOR SALDO DE GOLS em uma edição;
+
+12.1 - Identificar o time com MENOR SALDO DE GOLS em uma edição;
+
+13 - Identificar OS TIMES que MAIS FIZERAM GOLS no TOTAL.
+
+14 - Identificar OS TIMES que MAIS SOFRERAM GOLS no TOTAL.
+
+15 - Identificar OS TIMES que MAIS FAZEM GOLS na MÉDIA.
+
+15.1 - Identificar OS TIMES que MENOS FAZEM GOLS na MÉDIA.
+
+16 - Identificar OS TIMES que MAIS SOFREM GOLS na MÉDIA.
+
+16.1 - Identificar OS TIMES que MENOS SOFREM GOLS na MÉDIA.
+
+17 - Identificar OS TIMES com MAIOR SALDO DE GOLS na MÉDIA.
+
+17.1 - Identificar OS TIMES com MENOR SALDO DE GOLS na MÉDIA
+
+18 - Identificar o time c/ mais vitória em uma edição
+
+19 - Identificar o time c/ mais empates em uma edição
+
+20 - Identificar o time c/ mais derrotas em uma edição
+
+21 - Identificar OS TIMES C/ MAIS VITÓRIAS no TOTAL
+
+22 - Identificar OS TIMES C/ MAIS EMPATES no TOTAL
+
+23 - Identificar OS TIMES C/ MAIS DERROTAS no TOTAL
+
+24 - Identificar OS TIMES C/ MAIS VITÓRIAS na MÉDIA
+
+25 - Identificar OS TIMES C/ MAIS EMPATES na MÉDIA
+
+26 - Identificar OS TIMES C/ MAIS DERROTAS na MÉDIA
+
+27 - Identificar OS TIMES que mais vezes ficaram no G4.
+
+28 - Identificar OS TIMES com as melhores médias de colocação.
+
+29 - Identificar OS TIMES com as melhores médias de aproveitamento.
+
+30 - Agrupar os times pelo TOTAL de cada estado
+
+31 - Agrupar os times pela MÉDIA de cada estado
+
+32 - Agrupar os times pelo TOTAL de CADA REGIÃO
+
+33 - Agrupar os times pela MÉDIA de CADA REGIÃO
